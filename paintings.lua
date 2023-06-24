@@ -80,12 +80,13 @@ paintings_lib.register2x2(
 --)
 
 -- American Gothic
-
-paintings_lib.register3x4(
-        "american_gothic",
-        "American Gothic - Grant Wood (1930)",
-        "fp_painting_3x4_american-gothic.png^paintings_lib_frame3x4.png"
-)
+-- TODO: add format for this size
+--
+--paintings_lib.register3x4(
+--        "american_gothic",
+--        "American Gothic - Grant Wood (1930)",
+--        "fp_painting_3x4_american-gothic.png^paintings_lib_frame3x4.png"
+--)
 
 -- Guernica
 
