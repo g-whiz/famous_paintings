@@ -71,12 +71,15 @@ paintings_lib.register2x2(
 )
 
 -- Mona Lisa
+-- TODO: add format for this size
+--
+--paintings_lib.register2x3(
+--        "mona_lisa",
+--        "Mona Lisa - Leonardo da Vinci (1506)",
+--        "fp_painting_2x3_mona-lisa.png^paintings_lib_frame2x3.png"
+--)
 
-paintings_lib.register2x3(
-        "mona_lisa",
-        "Mona Lisa - Leonardo da Vinci (1506)",
-        "fp_painting_2x3_mona-lisa.png^paintings_lib_frame2x3.png"
-)
+-- American Gothic
 
 paintings_lib.register3x4(
         "american_gothic",
